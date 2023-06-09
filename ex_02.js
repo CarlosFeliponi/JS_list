@@ -1,5 +1,5 @@
-const receber = require("prompt-sync");
-const prompt = receber();
+const input = require('prompt-sync');
+const prompt = input();
 
 let nota = [];//array para receber as notas do teclado
 let arrayNum = [];//array para pegar a conversão

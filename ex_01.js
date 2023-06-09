@@ -1,6 +1,6 @@
-// ({sigint: true})
-const pt = require('prompt-sync');
-const prompt = pt();
+const input = require('prompt-sync');
+const prompt = input();
+
 let input = prompt("Digite uma frase: ");
 
 function MytoUpperCase(input) {
