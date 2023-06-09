@@ -30,12 +30,12 @@ b. meunumero040523 -> M3uNum&R0oA05ze
 ## 🚀 Nível 2
 
 1. Crie um sistema para fazer o controle de livros de um biblioteca:
-a. O sistema deve permitir cadastrar livros.
-b. O sistema deve permitir emprestar livros.
-c. O sistema deve gerar um relatório com os livros emprestados.
-d. O sistema deve gerar um relatório com os livros atrasados.
-e. O sistema deve permitir devolver um livro.
-f. O sistema deve permitir a edição da quantidade dos livros.
-g. O sistema deve possuir uma interface no console.
-h. O sistema deve possuir uma busca por categorias.
-i. O sistema deve possuir uma busca por nome.
+ - O sistema deve permitir cadastrar livros.
+ - O sistema deve permitir emprestar livros.
+ - O sistema deve gerar um relatório com os livros atrasados.
+ - O sistema deve gerar um relatório com os livros emprestados.
+ - O sistema deve permitir devolver um livro.
+ - O sistema deve permitir a edição da quantidade dos livros.
+ - O sistema deve possuir uma interface no console.
+ - O sistema deve possuir uma busca por categorias.
+ - O sistema deve possuir uma busca por nome.
